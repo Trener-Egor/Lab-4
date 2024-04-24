@@ -1,0 +1,46 @@
+[1334] Ivanov Egor Ivanovich: 4, 5, 5, 5
+[5532] Ivanov Ivan Ivanovich: 5, 5, 4, 4
+[6433] Sidorov Alexandr Ivanovich: 5, 5, 5, 3
+[5532] Sidorov Ivan Vladimirovich: 4, 3, 4, 5
+[5532] Safonov Ivan Pavlovich: 4, 4, 3, 5
+[64033] Petrov Alexandr Pavlovich: 5, 4, 3, 3
+[6433] Petrov Alexandr Pavlovich: 4, 5, 3, 3
+[1334] Karpov Anton Vladimirovich: 5, 3, 3, 4
+[1334] Karpov Egor Vladimirovich: 3, 3, 5, 3
+
+sort deque:
+
+after deque:
+[1334] Ivanov Egor Ivanovich: 4, 5, 5, 5
+[5532] Ivanov Ivan Ivanovich: 5, 5, 4, 4
+[6433] Sidorov Alexandr Ivanovich: 5, 5, 5, 3
+[5532] Sidorov Ivan Vladimirovich: 4, 3, 4, 5
+[5532] Safonov Ivan Pavlovich: 4, 4, 3, 5
+[64033] Petrov Alexandr Pavlovich: 5, 4, 3, 3
+[6433] Petrov Alexandr Pavlovich: 4, 5, 3, 3
+[1334] Karpov Anton Vladimirovich: 5, 3, 3, 4
+[1334] Karpov Egor Vladimirovich: 3, 3, 5, 3
+
+print list:
+[1334] Ivanov Egor Ivanovich: 4, 5, 5, 5
+[5532] Ivanov Ivan Ivanovich: 5, 5, 4, 4
+[6433] Sidorov Alexandr Ivanovich: 5, 5, 5, 3
+[5532] Sidorov Ivan Vladimirovich: 4, 3, 4, 5
+[5532] Safonov Ivan Pavlovich: 4, 4, 3, 5
+[64033] Petrov Alexandr Pavlovich: 5, 4, 3, 3
+[6433] Petrov Alexandr Pavlovich: 4, 5, 3, 3
+[1334] Karpov Anton Vladimirovich: 5, 3, 3, 4
+[1334] Karpov Egor Vladimirovich: 3, 3, 5, 3
+
+copy list std::copy:
+
+copy list print:
+[1334] Ivanov Egor Ivanovich: 4, 5, 5, 5
+[5532] Ivanov Ivan Ivanovich: 5, 5, 4, 4
+[6433] Sidorov Alexandr Ivanovich: 5, 5, 5, 3
+[5532] Sidorov Ivan Vladimirovich: 4, 3, 4, 5
+[5532] Safonov Ivan Pavlovich: 4, 4, 3, 5
+[64033] Petrov Alexandr Pavlovich: 5, 4, 3, 3
+[6433] Petrov Alexandr Pavlovich: 4, 5, 3, 3
+[1334] Karpov Anton Vladimirovich: 5, 3, 3, 4
+[1334] Karpov Egor Vladimirovich: 3, 3, 5, 3

@@ -1,0 +1,9 @@
+MT1 1334 Ivanov Egor Ivanovich 4 5 5 5
+MT6 5532 Ivanov Ivan Ivanovich 5 5 4 4
+FN5 6433 Sidorov Alexandr Ivanovich 5 5 5 3
+FN2 5532 Sidorov Ivan Vladimirovich 4 3 4 5
+MT4 5532 Safonov Ivan Pavlovich 4 4 3 5
+MT5 64033 Petrov Alexandr Pavlovich 5 4 3 3
+FN6 6433 Petrov Alexandr Pavlovich 4 5 3 3
+MT2 1334 Karpov Anton Vladimirovich 5 3 3 4
+FN4 1334 Karpov Egor Vladimirovich 3 3 5 3
